@@ -1,0 +1,22 @@
+{
+    "name": "welli/u-halo",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/", 
+            "Core\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wellington Henrique & Cauã Duarte",
+            "email": "wellingtonalfredo550@gmail.com" 
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "config": {
+        "allow-plugins": {
+
+        }
+    }
+}
